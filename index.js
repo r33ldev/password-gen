@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 // for yarn\npm link to work, i.e to run genpass from anywhere add
-
 //* commander for getting cli arguments and inputs
 const program = require('commander');
 //* chalk for formatting console
