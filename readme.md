@@ -47,4 +47,7 @@ you should run
        
        yarn link 
        
-and you can run from any where.
+### And now, you can run from any where.
+
+
+## I am going to convert this to typescript in a day or two... 
