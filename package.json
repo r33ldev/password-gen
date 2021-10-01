@@ -1,7 +1,9 @@
 {
-  "name": "JEDIDIAH_APPS-1 [Password Generator]",
+  "name": "genpass",
   "version": "1.0.0",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
