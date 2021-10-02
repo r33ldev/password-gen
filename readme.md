@@ -49,5 +49,15 @@ you should run
        
 ### And now, you can run from any where.
 
+## Options
+
+| Short | Long              | Description                     |
+| ----- | ----------------- | ------------------------------- |
+| -l    | --length <number> | length of password (default: 8) |
+| -s    | --save            | save password to passwords.txt  |
+| -nn   | --no-numbers      | remove numbers                  |
+| -ns   | --no-symbols      | remove symbols                  |
+| -h    | --help            | display help for command        |
+| -V    | --version         | Show the version                |
 
 ## I am going to convert this to typescript in a day or two... 
