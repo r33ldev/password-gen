@@ -51,7 +51,7 @@ you should run
 
 ## Options
 
-| Short | Long              | Description                     |
+| alias | command           | Description                     |
 | ----- | ----------------- | ------------------------------- |
 | -l    | --length <number> | length of password (default: 8) |
 | -s    | --save            | save password to passwords.txt  |
