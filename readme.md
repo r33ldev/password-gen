@@ -13,7 +13,7 @@ To run this project on your local machine
 
 first clone the repo by running
        
-       git clone https://github.com/j4jedah/JEDIDIAH_APPS-1-Password-Generator-.git
+       git clone https://github.com/super-devmike/password-gen.git
 
 install all the required dependencies by running
        
